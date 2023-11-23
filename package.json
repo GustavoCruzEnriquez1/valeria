@@ -1,0 +1,24 @@
+{
+  
+  "name": "tabla",
+  "version": "0.0.1",
+  "description": "tabla",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wds --node-resolve --watch --open "
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Gustavo",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "@web/dev-server": "0.3.2"
+  },
+
+  "dependencies": {
+    "lit": "^2.8.0"
+  }
+}
